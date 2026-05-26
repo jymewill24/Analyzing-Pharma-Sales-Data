@@ -36,21 +36,6 @@ The project answers the following business questions:
 
 ---
 
-## Project Structure
-
-```text
-Analysing-pharmaceutical-sales-data/
-│
-├── data/
-│   └── salesdaily.csv
-│
-├── pharmaceutical_sales_analysis.ipynb
-│
-└── README.md
-```
-
----
-
 ## Dataset
 
 The dataset used in this project comes from Kaggle and contains historical pharmaceutical sales information.
