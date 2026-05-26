@@ -120,11 +120,3 @@ pharmaceutical_sales_analysis.ipynb
 * Time-series analysis
 * Data visualization with Matplotlib
 * Exploratory data analysis (EDA)
-
----
-
-## Author
-
-Jy'Mere Williams
-
----
